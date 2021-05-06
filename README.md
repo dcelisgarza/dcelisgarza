@@ -4,7 +4,7 @@ I'm Daniel.
 
 I like lifting things, science and programming. I'm a big fantasy and sci-fi nerd, and occasionally say funny things.
 
-Currently writing my Doctoral Thesis in 3D Discrete Dislocation Dynamics at the Department of Materials at the University of Oxford.
+Currently waiting to submit my Doctoral Thesis in 3D Discrete Dislocation Dynamics at the Department of Materials at the University of Oxford. It will become available here in due course.
 
 I've worked on many things in many languages. I'm the eclectic sort, what can I say.
 <!--
