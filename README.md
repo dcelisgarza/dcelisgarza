@@ -4,11 +4,7 @@ I'm Daniel.
 
 I like lifting things, science and programming. I'm a big fantasy and sci-fi nerd, and occasionally say funny things.
 
-Currently waiting to submit my Doctoral Thesis in 3D Discrete Dislocation Dynamics at the Department of Materials at the University of Oxford. It will become available here in due course.
-
 [LinkedIn](https://www.linkedin.com/in/daniel-celis-garza-a92b39a8/)
-
-I've worked on many things in many languages. I'm the eclectic sort, what can I say.
 <!--
 **dcelisgarza/dcelisgarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
